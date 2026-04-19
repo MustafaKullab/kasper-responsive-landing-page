@@ -6,7 +6,7 @@ A responsive one-page landing page built using HTML & CSS, focused on clean layo
 
 ## 🌐 Live Demo
 
-👉 https://mustafakullab.github.io/kasper-responsive-landing-page/
+👉 [https://mustafakullab.github.io/kasper-responsive-landing-page/](https://mustafakullab.github.io/kasper-responsive-landing-page/)
 
 ---
 
