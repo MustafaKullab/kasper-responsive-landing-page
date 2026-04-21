@@ -12,7 +12,7 @@ A responsive one-page landing page built using HTML & CSS, focused on clean layo
 
 ## 📸 Preview
 
-![Preview](images/landing.jpg)
+<img width="1896" height="914" alt="image" src="https://github.com/user-attachments/assets/db98a029-456d-48c9-8192-6901e8a20f09" />
 
 ---
 
